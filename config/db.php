@@ -8,7 +8,7 @@ class DbConnection
         $host = 'localhost';
         $db   = 'testcrm';
         $user = 'testcrm';
-        $pass = 'LSH4x56ZayCzfsd7';
+        $pass = '';
         $charset = 'utf8mb4';
 
         $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
